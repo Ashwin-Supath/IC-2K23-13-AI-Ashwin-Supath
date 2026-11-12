@@ -2,8 +2,8 @@
 # Artificial Intelligence Lab - Lab 1
 
 **Student Details:**
-- **Roll No:** IC-2K23-50
-- **Name:** Keshav Sharma
+- **Roll No:** IC-2K23-13
+- **Name:** Ashwin Supath
 
 ---
 
