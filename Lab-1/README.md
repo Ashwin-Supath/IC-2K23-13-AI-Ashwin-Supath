@@ -1,4 +1,4 @@
-# IC-2K23-50-Keshav-Sharma-
+# IC-2K23-13-Ashwin-Supath
 # Artificial Intelligence Lab - Lab 1
 
 **Student Details:**
