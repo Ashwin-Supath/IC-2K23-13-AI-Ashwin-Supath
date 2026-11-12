@@ -1,9 +1,9 @@
-# IC-2K23-50-Keshav-Sharma-
+# IC-2K23-13-Ashwin-Supath-
 # Artificial Intelligence Lab - Lab 3: Data Preprocessing & Exploratory Data Analysis (EDA)
 
 **Student Details:**
-- **Roll No:** IC-2K23-50
-- **Name:** Keshav Sharma
+- **Roll No:** IC-2K23-13
+- **Name:** Ashwin Supath
 
 ---
 
